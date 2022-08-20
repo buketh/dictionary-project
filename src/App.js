@@ -12,7 +12,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer"> Coded by SheCodes</footer>
+        <footer className="App-footer"> Coded by Buket</footer>
       </div>
     </div>
   );
